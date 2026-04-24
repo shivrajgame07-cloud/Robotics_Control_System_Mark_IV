@@ -1,0 +1,13 @@
+{
+  "name": "ROBO-X Control Center",
+  "description": "Futuristic Tesla-style robotics dashboard with real-time 3D simulation, live camera stream, voice control, and telemetry.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "real-time-control",
+    "3d-visualization",
+    "voice-commands"
+  ]
+}
